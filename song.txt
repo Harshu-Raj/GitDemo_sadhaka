@@ -9,3 +9,5 @@ GitHub
 now we are moving to branching and merging and this is the new line to the new branch feature
 
 adding new lines for doing the non-fastforwarding merging of the files 
+
+making changes on feature branch to learn merge conflict
