@@ -5,3 +5,5 @@ how is your day going and this is learning the git from epam teacher
 this is now git gui& and lets learn this
 adding few lines to the text file to use revert from pushing this to the 
 GitHub
+
+now we are moving to branching and merging and this is the new line to the new branch feature
